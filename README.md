@@ -1,4 +1,4 @@
-# Prediction-of-subscriber-outflow
+# Prediction of subscriber outflow
 ### Introduction
 Telecommunications companies, Internet service providers, pay-TV companies, insurance companies and alarm monitoring services often use customer analysis and customer churn indicators as one of their key business metrics, since the cost of retaining an existing customer is much less than acquiring a new one. Companies from these sectors often have customer service branches that try to retain customers because loyal long-term customers can bring the company much more revenue than newly recruited customers.
 
